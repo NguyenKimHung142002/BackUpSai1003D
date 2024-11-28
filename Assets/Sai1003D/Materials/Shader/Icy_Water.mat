@@ -37,15 +37,16 @@ Material:
     - _Foam_Speed: 0
     - _Foam_Streng: 0.03
     - _Foam_Tile: 5
-    - _Normal_Streng: 0.2
+    - _Normal_Streng: 0.05
     - _Normal_Tiles: 0.8
     - _Smoothness: 0.8
     - _Speed: 0
     - _WateScale: 100
     - _WaveTile: 2.41
+    - _Wave_Scale: 1
     - _Wave_Speed: 0
-    - _Wave_Streng: 1.1
-    - _World_Pos_Scale: 1.12
+    - _Wave_Streng: 0
+    - _World_Pos_Scale: 40
     m_Colors:
     - _Vector2: {r: 0.7, g: 27.49, b: 0, a: 0}
     - _WaterA: {r: 0.7216981, g: 0.91814643, b: 1, a: 1}

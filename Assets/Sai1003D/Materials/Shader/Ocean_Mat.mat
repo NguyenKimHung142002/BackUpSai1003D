@@ -43,9 +43,10 @@ Material:
     - _Speed: 0.1
     - _WateScale: 100
     - _WaveTile: 2.41
+    - _Wave_Scale: 1
     - _Wave_Speed: 0.2
     - _Wave_Streng: 1.1
-    - _World_Pos_Scale: 1.12
+    - _World_Pos_Scale: 42.57
     m_Colors:
     - _Vector2: {r: 0.7, g: 27.49, b: 0, a: 0}
     - _WaterA: {r: 0.42475083, g: 0.67707944, b: 0.7830189, a: 1}

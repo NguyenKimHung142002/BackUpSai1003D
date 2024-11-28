@@ -4504,7 +4504,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "37643815ccbb446483097b552539fd8f",
     "m_Id": 0,
-    "m_DisplayName": "WateScale",
+    "m_DisplayName": "Wave Scale",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -7652,7 +7652,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_Space": 2,
+    "m_Space": 0,
     "m_PositionSource": 0
 }
 
@@ -12368,10 +12368,10 @@
     "m_Guid": {
         "m_GuidSerialized": "f5cecaad-43f8-49db-b695-e00b94c2d07c"
     },
-    "m_Name": "WateScale",
+    "m_Name": "Wave Scale",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "WateScale",
-    "m_DefaultReferenceName": "_WateScale",
+    "m_RefNameGeneratedByDisplayName": "Wave Scale",
+    "m_DefaultReferenceName": "_Wave_Scale",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
